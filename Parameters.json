@@ -1,0 +1,23 @@
+{
+  "Tenant_ID" : "5867",
+  "LS_URL" : "https://mygcppmm.o9solutions.com",
+  "EtlUsername" : "etluser@PMMIL1.com",
+  "EtlPassword" : "Welcoem@123",
+  "TenantName" : "PMMIL1-Pre Prod",
+  "CustomerName" : "URBN",
+  "EnvironmentName" : "Azure-Pre Prod",
+  "airflow_url" : "10.131.38.77:9080",
+  "Airflow_Username" : "gcppmm",
+  "Airflow_Password" : "odls!99",
+  "dag_ids" : "Master_Dag,Load_FactTime_to_StgTime,CCM_ProductStats",
+  "ssh_hive_connection" : "hive_ssh",
+  "sftp_folder_name" : "T1",
+  "Logs_Offset" : 12,
+  "offset" : 7,
+  "SFTP_username" : "svc.URBN.ccm",
+  "SFTP_Password" : "34997N2779e!"
+}
+
+
+
+
